@@ -43,3 +43,8 @@ x.forEach(e -> System.out.println(">>>>> "+e));
  ```
  
  ## 10/20
+
+* working with `@Test`
+* right click file --> new --> JUnit Test Case
+
+Attached is the code we did inclass
